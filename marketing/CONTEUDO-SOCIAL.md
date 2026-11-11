@@ -62,8 +62,9 @@ personagens falassem com quem assiste**, em séries com hashtag própria. Faça 
    vezes e parei nela. vocês teriam parado?"
 4. **A virada** — print: usuário escreve algo inocente; `[NOME]` responde com uma revelação. Texto:
    "eu só perguntei o nome dela 😶".
-5. **"Pediram meu documento pra conversar com uma personagem"** — você reagindo, olhar de cansaço,
-   corte para o ALCOVA: "aqui adulto entra como adulto." (+18, login Google.)
+5. **"Ela esqueceu meu nome de novo"** — você reagindo, olhar de cansaço diante de uma personagem
+   genérica que esqueceu tudo; corte para o ALCOVA, a personagem retomando algo que você contou.
+   Texto: "aqui ela lembra." 
 6. **"Ela lembrou"** — print de `[NOME]` citando algo dito 1 hora antes. Texto: "a IA lembrou de um
    detalhe que eu falei no começo da noite."
 7. **3 coisas que `[NOME]` nunca vai te contar** — 3 cards com mistério (sem spoiler). "A 3ª você
@@ -108,7 +109,7 @@ personagens falassem com quem assiste**, em séries com hashtag própria. Faça 
 | 1 | #1 Aqui ela termina a frase | Bio + link em todas as redes |
 | 2 | #2 POV confissão | Thread do fundador no X |
 | 3 | #3 Deslizei até achar | — |
-| 4 | #5 Pediram meu documento | Carrossel "Veio do Character.AI?" |
+| 4 | #5 Ela esqueceu meu nome | Carrossel "Veio do Character.AI?" |
 | 5 | #4 A virada | Story enquete |
 | 6 | #10 Story time do fundador | Post LinkedIn (versão profissional da thread) |
 | 7 | #9 Qual porta | Enquete "quem entra no catálogo?" |

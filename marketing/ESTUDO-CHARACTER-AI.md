@@ -40,7 +40,7 @@
 | Fraqueza do Character.AI | Evidência | Oportunidade |
 |---|---|---|
 | **Filtro rígido de romance** | Comunidades inteiras de reclamação (ex.: r/CharacterAI_No_Filter); usuários migrando para apps adultos | ALCOVA é +18 desde o início |
-| **Verificação de idade que barra adultos** | Relatos de bloqueio, exigência de selfie/documento; nota baixa em sites de avaliação | Adulto já entra como adulto |
+| **Verificação de idade que barra adultos** | Relatos de bloqueio, exigência de selfie/documento; nota baixa em sites de avaliação | ALCOVA é um app +18 por proposta (não prometer nada sobre verificação) |
 | **Anúncios** | Passou a monetizar com anúncios | ALCOVA não tem anúncios nem rastreadores |
 | **Memória curta / loop** | Reclamação recorrente; eles mesmos lançaram melhorias de memória em 2026 | Saga com arco + memória do usuário |
 | **Inglês primeiro** | Personagens populares e comunidade em inglês | Escrito em português do Brasil |
@@ -93,8 +93,8 @@ Próximos (mesmo formato): "character ai em português vale a pena", "character 
 - **Formato-chave "o filtro cortou… aqui ela terminou a frase":** primeira metade mostra um aviso
   genérico de filtro (mock próprio, sem logo do C.AI), segunda metade mostra a personagem do ALCOVA
   respondendo com tensão (sem nada explícito).
-- **Responder vídeos de reclamação do C.AI** (dueto/costura) com humor: "adulto barrado pedindo
-  documento pra conversar com personagem? vem pra cá".
+- **Responder vídeos de reclamação do C.AI** (dueto/costura) com humor, sobre filtro, memória e
+  anúncios: "a cena foi cortada de novo? aqui ela termina a frase". Não falar de verificação de idade.
 - **Reagir a quedas:** quando o C.AI cair (o X/Twitter mostra em minutos), postar em até 1 hora o
   vídeo "o C.AI caiu, mas ela tá aqui". Deixar 3 vídeos desse tipo prontos para postar na hora.
 
@@ -110,13 +110,15 @@ Próximos (mesmo formato): "character ai em português vale a pena", "character 
   **1 saga extra grátis** (ou o capítulo 1 de todas as personagens). Custo: só a API da saga dada.
 - No onboarding do app, pergunta opcional: **"De onde você veio?"** (Character.AI / outro app /
   primeira vez). Mede o resultado da operação e permite falar com cada grupo no tom certo.
-- Mensagem de boas-vindas para quem marcar "Character.AI": *"Aqui ninguém vai pedir documento pra você
-  conversar, nem cortar a cena no melhor momento. E ela vai lembrar de você."* (Só use se for verdade
-  no app: classificação +18 e login Google.)
+- Mensagem de boas-vindas para quem marcar "Character.AI": *"Aqui a cena não é cortada no melhor
+  momento. E ela vai lembrar de você."*
 
 ### 3.5 Capturar o que eles mesmos estão ensinando
 O C.AI está educando o público a pagar por **séries interativas**. Comunicar o ALCOVA como "**séries
 interativas para adultos, em português**" encaixa direto na expectativa que eles estão criando.
+
+> **Regra:** nunca usar verificação de idade ou "não pedimos documento" como argumento de venda do
+> ALCOVA. Os ataques são só filtro, memória, anúncios, idioma e histórias sem final.
 
 ### 3.6 Metas da operação (90 dias)
 | Métrica | Meta |
