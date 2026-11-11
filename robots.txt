@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arthurvalle1.github.io/alcova-legal/sitemap.xml
