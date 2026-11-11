@@ -1,0 +1,19 @@
+name: Avisar buscadores (IndexNow)
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Esperar o GitHub Pages publicar
+        run: sleep 90
+      - name: Enviar URLs do sitemap ao IndexNow (Bing, Yandex, Seznam, Naver)
+        run: |
+          URLS=$(grep -o '<loc>[^<]*' sitemap.xml | sed 's/<loc>//' | python3 -c 'import sys,json;print(json.dumps([l.strip() for l in sys.stdin if l.strip()]))')
+          curl -sS -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            -d "{\"host\":\"arthurvalle1.github.io\",\"key\":\"58fed824fb7abac44cb20bc81286a773\",\"keyLocation\":\"https://arthurvalle1.github.io/alcova-legal/58fed824fb7abac44cb20bc81286a773.txt\",\"urlList\":$URLS}" \
+            -w '\nHTTP %{http_code}\n'

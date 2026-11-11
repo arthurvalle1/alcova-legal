@@ -191,19 +191,18 @@ https://play.google.com/store/apps/details?id=app.alcova&referrer=utm_source%3Dt
 
 ## 9. Pauta de SEO (próximos artigos)
 
-Já publicados (9): alternativas ao Character.AI · Character.AI verificação de idade · filtro de
-romance do Character.AI · Character.AI fora do ar · o que é ficção interativa · chat com IA para
+Já publicados (12): alternativas ao Character.AI · Character.AI verificação de idade · filtro de
+romance do Character.AI · Character.AI fora do ar · Character.AI esquece (memória) · Character.AI em
+português vale a pena · séries interativas para adultos · o que é ficção interativa · chat com IA para
 adultos e privacidade · como funciona uma saga · personagem de IA em português · 9 dicas para escrever
 mensagens.
 
 Próximos (2 por semana — basta criar o arquivo em `content/blog/` e rodar o gerador):
 1. Character.AI com anúncios: o que mudou
-2. Character.AI em português: vale a pena em 2026?
 3. Apps de romance com IA: comparativo honesto (sem difamar concorrentes)
 4. O que é um "app de namoro com IA"? (e por que o ALCOVA não é um)
 5. Dark romance interativo: como funciona a tensão numa história com IA
 6. Por que histórias com final prendem mais do que chats infinitos
-7. Como a IA lembra da conversa (memória e contexto, explicado sem jargão)
 8. Motel no Brasil: por que é o cenário perfeito para uma história de segredo
 9. 10 arquétipos de personagem que funcionam em histórias de sedução
 10. Roleplay com IA é seguro? O que a LGPD garante
@@ -230,6 +229,8 @@ Regras de SEO para cada artigo: palavra-chave no título e no primeiro parágraf
 | Arquivo | O que tem |
 |---|---|
 | `PLANO-DE-MARKETING.md` | Este documento: estratégia, calendário, métricas |
+| `INVESTIMENTO.md` | Se quiser gastar: ranking do que rende mais, pacotes e o que evitar |
+| `imagens/` | Carrossel "Veio do Character.AI?" (7 telas) e 4 stories prontos para postar |
 | `ESTUDO-CHARACTER-AI.md` | Como o C.AI cresceu, as fraquezas dele, a operação de captura e o plano de personalização |
 | `ASO-GOOGLE-PLAY.md` | Textos prontos para a página da loja + respostas a avaliações |
 | `CONTEUDO-SOCIAL.md` | Bios, 20 roteiros de vídeo, posts, calendário de 30 dias |
