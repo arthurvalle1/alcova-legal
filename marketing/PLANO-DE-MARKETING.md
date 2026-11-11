@@ -1,6 +1,7 @@
 # ALCOVA — Plano de Marketing (custo zero)
 
-> Versão 1.0 · novembro/2026 · horizonte: 90 dias
+> Versão 2.0 · novembro/2026 · horizonte: 90 dias
+> **Leia junto:** `ESTUDO-CHARACTER-AI.md`, com o estudo de como o Character.AI cresceu e a operação para trazer os usuários dele.
 > Produto em produção: app Android `app.alcova`, ficção interativa adulta (+18) com IA, PT-BR,
 > sagas pagas (R$ 24,90) com a primeira grátis.
 
@@ -26,24 +27,40 @@
 | Fandom de terceiros | ❌ (e nem deve: direitos autorais) | **Fandom próprio**: as personagens do catálogo são as "celebridades". Enquetes "quem entra no catálogo semana que vem?" devolvem ao público a sensação de criação. |
 | Grátis na entrada | ✅ primeira saga grátis | Manter, e medir conversão grátis → paga com rigor. |
 
+**Dado-chave:** o Brasil é o **2º maior país do Character.AI** em tráfego (≈8%, set/2026), algo em
+torno de **1 a 2 milhões de brasileiros**. Esse público já sabe conversar com personagens de IA, já foi
+ensinado a pagar por histórias (o C.AI lançou séries roteirizadas pagas em 2026) e está irritado com
+filtro de romance, verificação de idade, anúncios e personagens em "português de legenda". **É o
+público nº 1 do ALCOVA.**
+
 **Vantagens do ALCOVA que viram mensagem:**
-- **Zero esforço para começar:** "Não crie ninguém. Escolha." (o maior atrito do C.AI é a tela em branco).
-- **História com final:** sagas de ~4 h com arco, contra o chat infinito que entra em loop.
-- **Português de verdade**, cenários brasileiros (motel é um ícone cultural brasileiro — usar com humor e mistério).
-- **Adulto (+18)** num momento em que o C.AI restringiu menores e mantém filtros pesados para romance.
-- **Privacidade:** sem anúncios, sem rastreadores, conversas não treinam a IA.
+- **Para adultos de verdade (+18):** romance, sedução e tensão sem filtro pensado para adolescente.
+- **Ela lembra de você:** usa seu nome, guarda o que você conta, reage ao seu jeito.
+- **Um final só seu:** sagas de ~4 h com arco e desfecho que muda conforme o que você fala, em vez
+  do chat infinito que entra em loop.
+- **Português de verdade**, cenários brasileiros (motel é um ícone cultural brasileiro; usar com humor e mistério).
+- **Sem anúncios, sem rastreadores**, conversas não treinam a IA.
 - **Sem assinatura:** paga só a saga que quiser.
+
+**Fraqueza assumida: personalização.** Quem vem do C.AI espera personalizar. Regra de comunicação:
+**nunca** apresentar o catálogo como "você não precisa criar"; falar do que já é pessoal (nome,
+memória, escolhas, final). No produto, fechar a lacuna em etapas (persona do usuário → ajuste de tom
+da personagem → votação de novas personagens → Estúdio com criação moderada). Detalhes em
+`ESTUDO-CHARACTER-AI.md` §4 e `PRODUTO-CRESCIMENTO.md` §0.
 
 ## 2. Posicionamento
 
 **Frase de posicionamento (interna):**
-> Para adultos brasileiros que gostam de romance, drama e tensão, o ALCOVA é a ficção interativa com IA
-> em que você **escolhe** uma personagem num catálogo e **vive** uma saga com final — em vez de criar
-> um personagem do zero e conversar num chat sem rumo.
+> Para adultos brasileiros que gostam de conversar com personagens de IA (a começar por quem já usa o
+> Character.AI), o ALCOVA é a ficção interativa **+18 em português** em que a personagem **lembra de
+> você** e cada conversa vira uma **saga com final só seu**, sem filtro de adolescente, sem anúncio e
+> sem assinatura.
 
-**Tagline principal:** *Não crie ninguém. Escolha.*
-**Variações para testar:** "Deu match. Agora ela tem algo pra te confessar." · "Uma série onde você é o
-outro protagonista." · "Ela já está no catálogo."
+**Tagline principal:** *Cada confissão é só sua.*
+**Título da landing:** "Ela lembra de você. E a história muda por sua causa."
+**Variações para testar:** "Deu match. Agora ela tem algo pra te confessar." · "Séries interativas para
+adultos, em português." · "Aqui ela termina a frase." (para o público do C.AI) · "Uma série onde você
+é o outro protagonista."
 
 **Tom de voz:** sussurrado, sedutor, com humor brasileiro; promete **tensão e mistério**, nunca sexo.
 Pense em trailer de série da HBO, não em anúncio de app adulto.
@@ -70,7 +87,7 @@ Conteúdo adulto é a parte que pode derrubar o app. Regras inegociáveis:
 
 | Persona | Quem é | Onde está | Gancho |
 |---|---|---|---|
-| **Refugiado do C.AI** (prioridade 1) | 18–30, já usa apps de personagens, cansou de filtro/inglês/loop | TikTok, Reddit, Discord, X | "Alternativa em português, para adultos, com história de verdade." |
+| **Refugiado do C.AI** (prioridade 1, ver `ESTUDO-CHARACTER-AI.md`) | 18–34, adulto, usa ou usou o C.AI, cansou de filtro, verificação de idade, anúncios, inglês e loop | TikTok (#characterai), Reddit, Discord, X, Google ("alternativa character ai") | "Aqui ela termina a frase. Para adultos, em português, e ela lembra de você." |
 | **Leitora de romance/dark romance** (prioridade 1) | 20–40, lê Wattpad/BookTok, maratona K-drama e séries | TikTok (BookTok), Instagram, Wattpad, Skoob | "É como um livro de romance em que você é o protagonista." |
 | **Curioso de IA** | 22–45, testa apps novos | X, LinkedIn, newsletters, YouTube | "Um produto brasileiro de IA narrativa que já está no ar." |
 | **Público de séries/drama** | 25–45 | Instagram, Facebook, Kwai | "Uma série adulta que responde você." |
@@ -85,7 +102,7 @@ Conteúdo adulto é a parte que pode derrubar o app. Regras inegociáveis:
 |---|---|---|---|---|
 | 1 | **ASO no Google Play** | É onde a decisão final acontece; grátis e cumulativo | Baixo | Conversão da página da loja ≥ 30% |
 | 2 | **TikTok + Reels + Shorts + Kwai** (mesmo vídeo, 4 lugares) | Onde o C.AI explodiu; prints e "POV" funcionam | Médio | 90 vídeos, 1 viral (>100 mil views) |
-| 3 | **SEO / blog** (feito ✅) | Captura "alternativa character ai", "chat ia português" | Baixo (rodando) | 20 artigos, 1.000 visitas/mês |
+| 3 | **SEO / blog** (feito ✅, 9 artigos, 4 deles para quem busca problemas do C.AI) | Captura "alternativa character ai", "character ai verificação de idade", "filtro character ai", "character ai fora do ar" | Baixo (rodando) | 25 artigos, 3.000 visitas/mês |
 | 4 | **Diretórios de IA e alternativas** | AlternativeTo ranqueia para "Character.AI alternatives" | Baixo, uma vez | 10 listagens |
 | 5 | **Comunidades** (Reddit, Discord, grupos) | Refugiados do C.AI estão lá | Médio | 5 posts de valor, sem spam |
 | 6 | **Microinfluenciadores** (permuta: saga grátis) | Confiança + alcance de nicho | Médio | 20 criadores contatados, 5 posts |
@@ -98,8 +115,8 @@ restritos e caros; ignorar até ter conversão comprovada.
 
 ## 6. O motor: "Drop da semana"
 
-Esta é a adaptação central do modelo Character.AI para um catálogo. Em vez de usuários criarem
-personagens, **o ALCOVA lança personagens como uma série lança episódios.**
+Enquanto o app não tem criação de personagens pelos usuários (o motor nº 1 do C.AI), **o ALCOVA
+lança personagens como uma série lança episódios**, e o público participa votando no que vem a seguir.
 
 Ciclo semanal (repetir toda semana):
 
@@ -120,7 +137,7 @@ intermediária para relançar uma personagem antiga com ângulo novo.
 
 ### Fase 1 — Fundação (semanas 1–2)
 - [x] Landing page com SEO, FAQ e dados estruturados (`index.html`).
-- [x] Blog com 7 artigos publicados (`blog/`) + sitemap + RSS + gerador (`tools/build_blog.py`).
+- [x] Blog com 9 artigos (`blog/`), sendo 4 de captura do Character.AI, + sitemap + RSS + gerador (`tools/build_blog.py`).
 - [ ] Ativar/confirmar **GitHub Pages** (Settings → Pages → branch `main`, pasta `/`).
 - [ ] **Google Search Console**: adicionar a propriedade do site, verificar (meta tag ou arquivo HTML) e
       enviar `sitemap.xml`. Repetir no **Bing Webmaster Tools** (importa do Search Console).
@@ -131,6 +148,8 @@ intermediária para relançar uma personagem antiga com ângulo novo.
 - [ ] Cadastrar o app nos diretórios (`COMUNIDADES-E-OUTREACH.md` §1).
 
 ### Fase 2 — Tração (semanas 3–6)
+- [ ] **Operação Refugiados do C.AI** (`ESTUDO-CHARACTER-AI.md` §3): código VIMDOCAI, pergunta "de onde você veio?" no onboarding, vídeos "aqui ela termina a frase", 3 vídeos prontos para quando o C.AI cair.
+- [ ] Implementar **persona do usuário** (nome, pronomes, traços do protagonista) e lançar como novidade.
 - [ ] 1 vídeo por dia (o mesmo vídeo em TikTok, Reels, Shorts e Kwai). Roteiros prontos no
       `CONTEUDO-SOCIAL.md`.
 - [ ] Iniciar o ciclo **Drop da semana**.
@@ -172,12 +191,13 @@ https://play.google.com/store/apps/details?id=app.alcova&referrer=utm_source%3Dt
 
 ## 9. Pauta de SEO (próximos artigos)
 
-Já publicados (7): alternativas ao Character.AI · escolher × criar personagem · o que é ficção
-interativa · chat com IA para adultos e privacidade · como funciona uma saga · personagem de IA em
-português · 9 dicas para escrever mensagens.
+Já publicados (9): alternativas ao Character.AI · Character.AI verificação de idade · filtro de
+romance do Character.AI · Character.AI fora do ar · o que é ficção interativa · chat com IA para
+adultos e privacidade · como funciona uma saga · personagem de IA em português · 9 dicas para escrever
+mensagens.
 
 Próximos (2 por semana — basta criar o arquivo em `content/blog/` e rodar o gerador):
-1. Character.AI saiu do ar / está lento? O que fazer (artigo "evergreen" para picos de busca)
+1. Character.AI com anúncios: o que mudou
 2. Character.AI em português: vale a pena em 2026?
 3. Apps de romance com IA: comparativo honesto (sem difamar concorrentes)
 4. O que é um "app de namoro com IA"? (e por que o ALCOVA não é um)
@@ -210,6 +230,7 @@ Regras de SEO para cada artigo: palavra-chave no título e no primeiro parágraf
 | Arquivo | O que tem |
 |---|---|
 | `PLANO-DE-MARKETING.md` | Este documento: estratégia, calendário, métricas |
+| `ESTUDO-CHARACTER-AI.md` | Como o C.AI cresceu, as fraquezas dele, a operação de captura e o plano de personalização |
 | `ASO-GOOGLE-PLAY.md` | Textos prontos para a página da loja + respostas a avaliações |
 | `CONTEUDO-SOCIAL.md` | Bios, 20 roteiros de vídeo, posts, calendário de 30 dias |
 | `COMUNIDADES-E-OUTREACH.md` | Diretórios, posts para comunidades, DMs para influenciadores, release de imprensa |

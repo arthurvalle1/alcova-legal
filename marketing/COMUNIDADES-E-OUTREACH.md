@@ -13,10 +13,10 @@
 
 **Ficha padrão para diretórios (copiar e colar):**
 - *Nome:* ALCOVA
-- *Frase (≤ 60):* Escolha uma personagem e viva uma saga de sedução com IA.
+- *Frase (≤ 60):* Personagens de IA que lembram de você. +18, em português.
 - *Descrição curta:* ALCOVA is an adult (18+) interactive fiction app in Brazilian Portuguese. Instead of
-  creating a character from scratch, you swipe through a curated catalog — dating-app style — and live a
-  scripted AI-driven story with a beginning, middle and end. First story free, no subscription, no ads.
+  AI characters remember you, adapt to how you talk and live with you a seduction story with a beginning,
+  middle and an ending shaped by your words. First story free, no subscription, no ads.
 - *Categorias:* Interactive fiction, AI characters, Storytelling, Entertainment
 - *Preço:* Freemium (first story free, R$ 24,90 per story)
 - *Plataforma:* Android
@@ -39,15 +39,15 @@ IA); no máximo 10% mencionam o ALCOVA — e sempre declarando que você é o cr
 
 ### Post modelo — comunidade de usuários de apps de personagens
 ```
-Título: Fiz um app de personagens de IA em português onde você não cria o personagem — você escolhe (feedback?)
+Título: Fiz um app de personagens de IA em português, para adultos, com histórias que têm final (feedback?)
 
 Oi! Sou o criador do ALCOVA, então já aviso que é autopromoção, mas queria mesmo a opinião de vocês.
 
-O que mais me cansava nos apps de personagens era: (1) gastar meia hora criando a ficha, (2) a conversa entrar em loop depois de umas horas, (3) personagem em português soando como legenda dublada.
+O que mais me cansava nos apps de personagens era: (1) o filtro cortando a cena no melhor momento, (2) a conversa entrar em loop e a personagem esquecer tudo depois de umas horas, (3) personagem em português soando como legenda dublada.
 
-Então fiz o contrário: um catálogo de personagens prontas (deslizar estilo app de encontros), e cada uma tem uma "saga" com começo, meio e fim (~4h), escrita em português. É +18 no sentido de sedução/tensão, nível série da HBO, sem conteúdo explícito.
+Então fiz um app em que cada personagem tem uma "saga" com começo, meio e fim (~4h), escrita em português, que lembra de você e muda o final conforme o que você fala. É +18 no sentido de sedução/tensão, nível série da HBO, sem conteúdo explícito.
 
-A primeira saga é grátis. Queria saber: vocês preferem criar ou escolher? O que faria vocês largarem o app nos primeiros 10 minutos?
+A primeira saga é grátis. Queria saber: o que vocês mais sentem falta no C.AI? E que tipo de personalização vocês querem (criar o seu protagonista, ajustar o jeito da personagem, criar personagens do zero)?
 
 (Só Android por enquanto.) Link nos comentários se a regra permitir.
 ```
@@ -56,7 +56,7 @@ A primeira saga é grátis. Queria saber: vocês preferem criar ou escolher? O q
 ```
 Título: Lancei um app de ficção interativa com IA no Google Play — aprendizados de produto, custo de LLM e política +18
 
-- Por que escolhi catálogo em vez de "crie seu personagem" (atrito de onboarding)
+- O Brasil é o 2º país do Character.AI: por que apostei num app de personagens em português para adultos
 - Como estruturo uma saga para a IA não entrar em loop (arco com marcos)
 - Limite de 600 caracteres por mensagem e cap por saga: como isso controla custo de API
 - O que a política do Google Play permite e não permite em ficção adulta
@@ -80,7 +80,7 @@ próximo drop — custo zero e gera muito orgulho/divulgação espontânea.
 ```
 Oi, [nome]! Sou o [seu nome], criador do ALCOVA, um app brasileiro de histórias interativas com IA (+18, sedução/tensão nível série, nada explícito).
 
-Vi seu vídeo sobre [vídeo específico] e acho que seu público ia curtir: em vez de criar personagem, você desliza um catálogo e vive uma saga com final, toda em português.
+Vi seu vídeo sobre [vídeo específico] e acho que seu público ia curtir: são personagens de IA que lembram de você e vivem sagas de sedução com final, tudo em português, sem filtro de adolescente e sem anúncio.
 
 Quer testar? Libero todas as sagas pra você, sem compromisso de postar. Se curtir e quiser fazer um vídeo/live, posso até batizar uma personagem do próximo lançamento com um nome que você escolher.
 ```
@@ -105,14 +105,14 @@ respondeu? · acesso liberado? · postou? · link do post · instalações (UTM 
 tecnologia em português, podcasts de tecnologia e de cultura pop. Pegue os e-mails de pauta nas páginas
 "Fale conosco/Expediente" de cada veículo. Envie de terça a quinta, às 9h.
 
-**Assunto:** `Startup brasileira lança "Tinder de personagens de IA" para histórias interativas adultas`
+**Assunto:** `No 2º maior mercado do Character.AI, startup brasileira lança séries interativas com IA para adultos`
 
 ```
 São Paulo, [data] — A ART Produções e Distribuição lança o ALCOVA, aplicativo brasileiro de ficção interativa para adultos em que personagens conduzidas por inteligência artificial vivem histórias de sedução e suspense com o usuário — em português.
 
-Diferente de plataformas como o Character.AI, em que o usuário cria o próprio personagem, o ALCOVA funciona como um catálogo no estilo dos aplicativos de encontros: o usuário desliza pelas personagens, escolhe uma e entra numa "saga" roteirizada, com começo, meio e fim, que dura em média quatro horas. O desfecho muda conforme a conversa.
+O Brasil está entre os maiores mercados do Character.AI no mundo: estimativas de tráfego o colocam como segundo país em uso da plataforma. O ALCOVA nasce para o público adulto desse mercado. O usuário dá match numa personagem e entra numa "saga" com começo, meio e fim, que dura em média quatro horas. A personagem lembra do usuário e do que ele conta, e o desfecho muda conforme a conversa.
 
-"A tela em branco é o maior obstáculo desses apps. A maioria das pessoas não quer escrever uma ficha de personagem — quer sentir alguma coisa nos primeiros minutos", afirma [nome], fundador do ALCOVA. "Nós trocamos a criação pela escolha e o chat infinito por uma história com final."
+"O brasileiro adora conversar com personagens de IA, mas os apps foram feitos em inglês e para um público jovem, com filtros que cortam a história no melhor momento", afirma [nome], fundador do ALCOVA. "Nós fizemos para adultos, em português, e com histórias que chegam a um final."
 
 O app é classificado para maiores de 18 anos e trabalha com sedução e tensão no nível de séries para maiores, sem conteúdo explícito. As falas são geradas por modelos de IA de ponta, guiados por roteiros próprios escritos em português. O ALCOVA não exibe anúncios, não usa rastreadores publicitários e não utiliza as conversas para treinar modelos.
 

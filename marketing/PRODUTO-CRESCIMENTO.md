@@ -3,7 +3,24 @@
 > O Character.AI não cresceu por anúncio: cresceu porque o produto gera divulgação sozinho.
 > Estas são as mudanças no app que fazem o mesmo no modelo de catálogo. Ordem = impacto ÷ esforço.
 
-## 1. Botão "Compartilhar esta fala" (prioridade máxima)
+## 0. Personalização: fechar a única fraqueza do ALCOVA (prioridade máxima)
+
+Quem vem do Character.AI espera personalizar. Roadmap em camadas (detalhes em
+`ESTUDO-CHARACTER-AI.md` §4):
+
+1. **Persona do usuário** (curto prazo): nome/apelido, pronomes, aparência e 2–3 traços do protagonista,
+   usados pela personagem na saga. Entra no prompt; não quebra o roteiro.
+2. **Ajuste da personagem antes da saga:** tom (doce / provocadora / misteriosa), ritmo (lento /
+   intenso), 1 entre 3 cenários de abertura.
+3. **Votação de novas personagens:** a comunidade escolhe arquétipos; os vencedores viram drops.
+4. **Estúdio ALCOVA (UGC moderado):** usuário cria a personagem → revisão (IA + humano, regras +18 e
+   tolerância zero com aparência infantil) → entra no catálogo com crédito ao criador → criador ganha
+   saga grátis a cada X matches. Cada personagem criada vira página pública e link compartilhável: é
+   o motor nº 1 do Character.AI, com moderação.
+
+Cada etapa lançada vira campanha de marketing ("agora você cria o seu protagonista").
+
+## 1. Botão "Compartilhar esta fala"
 
 - Em qualquer mensagem da personagem: toque longo → **Compartilhar**.
 - Gera uma imagem 1080×1920 (formato story): fundo escuro da marca, a fala em serifa, nome da

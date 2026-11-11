@@ -15,19 +15,19 @@
 
 ## 2. Descrição curta (≤ 80)
 
-- **A (recomendada):** `Escolha uma personagem e viva uma saga de sedução com IA. 1ª história grátis.` (78)
-- **B:** `Deslize o catálogo, dê match e viva uma história com IA em português. +18` (73)
+- **A (recomendada):** `Personagens de IA que lembram de você. Sagas de sedução +18. 1ª grátis.` (72)
+- **B:** `Séries interativas com IA para adultos, em português. 1ª história grátis.` (75)
 
 ## 3. Descrição completa
 
 ```
-Não crie ninguém. Escolha.
+Ela lembra de você. E a história muda por sua causa.
 
-ALCOVA é ficção interativa para adultos, conduzida por inteligência artificial e escrita em português do Brasil. Em vez de passar meia hora criando um personagem do zero, você desliza por um catálogo — como num app de encontros —, escolhe quem te intriga e entra direto numa história cheia de tensão.
+ALCOVA é ficção interativa para adultos, conduzida por inteligência artificial e escrita em português do Brasil. Dê match numa personagem, entre numa história cheia de tensão e converse livremente: ela usa o seu nome, guarda o que você conta e reage ao seu jeito. Cada conversa vira uma saga com um final que só você vai ter.
 
 ★ COMO FUNCIONA
-• Deslize o catálogo: cada personagem tem rosto, temperamento e um segredo.
-• Dê match: a conversa começa no meio de uma cena, sem "oi, tudo bem?".
+• Dê match: cada personagem tem rosto, temperamento e um segredo. O catálogo cresce toda semana.
+• Entre na cena: a conversa começa no meio da ação, sem "oi, tudo bem?".
 • Converse livremente: escreva o que quiser; a personagem responde em tempo real, lembra do que você disse e muda conforme a conversa.
 • Conduza o final: cada saga tem começo, meio, clímax e desfecho — que depende de você.
 
@@ -35,6 +35,8 @@ ALCOVA é ficção interativa para adultos, conduzida por inteligência artifici
 Uma noite. Um quarto. Alguém com algo a confessar. As sagas do ALCOVA duram em média 4 horas e podem ser jogadas no seu ritmo, em vários dias.
 
 ★ POR QUE O ALCOVA
+• Feito para adultos: romance e tensão sem filtro de adolescente cortando a cena
+• Personagens com memória, que lembram de você
 • Histórias com final, não um chat infinito que se repete
 • Escrito em português, com cenários e jeito brasileiros
 • IA de ponta guiada por roteiros próprios
@@ -58,16 +60,16 @@ Contato: games@artproducoes.com.br
 Formato recomendado: 1080×1920, fundo escuro da marca (#0e0a0c), print do app ao centro, legenda
 grande em cima (fonte serifada, 2 linhas no máximo).
 
-1. **Não crie ninguém. Escolha.** — tela do catálogo com cartas.
-2. **Deslize. Dê match.** — gesto de match.
+1. **Ela lembra de você.** — conversa em que a personagem usa o nome do usuário e cita algo antigo.
+2. **Dê match. Entre na cena.** — catálogo + gesto de match.
 3. **A história começa no meio da cena.** — primeira mensagem da saga.
-4. **Ela lembra de tudo o que você disse.** — conversa com referência a algo antigo.
+4. **Para adultos. Sem cortar a cena.** — momento de tensão (nada explícito).
 5. **Cada palavra muda o final.** — momento de virada.
 6. **Em português de verdade.** — fala com gíria/coloquialismo.
 7. **Sem anúncios. Sem rastreadores.** — tela limpa / tela de conta.
 8. **A primeira confissão é por nossa conta.** — tela de saga grátis + selo +18.
 
-**Gráfico de destaque (1024×500):** pode usar `assets/og.png` recortado ("Não crie ninguém. Escolha.").
+**Gráfico de destaque (1024×500):** pode usar `assets/og.png` recortado ("Cada confissão é só sua.").
 
 **Vídeo promocional (YouTube, 30 s):** reutilize o roteiro nº 1 do `CONTEUDO-SOCIAL.md`.
 
@@ -75,7 +77,7 @@ grande em cima (fonte serifada, 2 linhas no máximo).
 
 Rodar um de cada vez, 7–14 dias cada, 50/50:
 1. Ícone atual × ícone com a letra "A" em vermelho sobre fundo escuro.
-2. Screenshot 1 "Não crie ninguém. Escolha." × "Deu match. Agora ela tem algo pra confessar."
+2. Screenshot 1 "Ela lembra de você." × "Deu match. Agora ela tem algo pra confessar."
 3. Descrição curta A × B.
 
 ## 6. Palavras-chave para espalhar na descrição (sem repetir em excesso)

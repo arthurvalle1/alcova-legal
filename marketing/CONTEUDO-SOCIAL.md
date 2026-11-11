@@ -9,8 +9,8 @@
 **TikTok / Instagram / Kwai**
 ```
 ALCOVA 🖤 +18
-Não crie ninguém. Escolha.
-Sagas de sedução com IA, em português.
+Cada confissão é só sua.
+Personagens de IA que lembram de você. Em PT-BR.
 1ª confissão grátis ↓
 ```
 Link na bio: `https://arthurvalle1.github.io/alcova-legal/` (ou link direto para a loja com UTM
@@ -18,11 +18,22 @@ Link na bio: `https://arthurvalle1.github.io/alcova-legal/` (ou link direto para
 
 **X / Threads**
 ```
-Ficção interativa +18 com IA, em português. Deslize o catálogo, dê match, viva a confissão. Android.
+Ficção interativa +18 com IA, em português. Ela lembra de você, e o final é só seu. Android.
 ```
 
 **Hashtags base (alternar 3–5):** #ficçãointerativa #historiascomia #inteligenciaartificial #romance
 #booktokbrasil #darkromance #characterai #pov #series #appnovo
+
+## 1.1 Conta "dentro do personagem" (tática copiada do Character.AI)
+
+A conta oficial do Character.AI no TikTok passou de 1 milhão de seguidores postando **como se as
+personagens falassem com quem assiste**, em séries com hashtag própria. Faça o mesmo:
+- 50% dos vídeos na **voz de uma personagem** do catálogo, falando direto para a câmera/texto ("Você
+  sumiu ontem. Eu reparei.").
+- Série semanal com hashtag própria **#confissõesalcova**, com episódios numerados ("Confissão de
+  [NOME], parte 1/3").
+- Responder comentários **como a personagem**. Isso gera muita conversa e alcance.
+- Hashtags de captura: #characterai #cai #characteraibrasil + as da marca.
 
 ## 2. Formatos que funcionam (e por quê)
 
@@ -31,7 +42,7 @@ Ficção interativa +18 com IA, em português. Deslize o catálogo, dê match, v
 | **POV de primeira fala** | Tela preta, texto digitado aparecendo, som ambiente | Curiosidade + imersão; é o "print viral" do C.AI |
 | **"Deslizei até achar…"** | Tela gravada do catálogo, swipe, para numa personagem | Mostra o diferencial (catálogo) em 3 s |
 | **Resposta inesperada** | Mensagem do usuário → resposta da personagem que vira o jogo | Gancho emocional, gera comentários |
-| **Comparação** | "Character.AI: 30 min criando personagem. ALCOVA: 3 segundos." | Fala direto com o público que já usa C.AI |
+| **"Aqui ela termina a frase"** | Metade 1: aviso genérico de filtro cortando a cena (mock próprio, sem logo de ninguém). Metade 2: a personagem do ALCOVA continua com tensão | Fala direto com a maior dor de quem usa o C.AI |
 | **Enquete/escolha** | "Qual você abriria primeiro? 1, 2 ou 3?" | Comentários = alcance |
 | **Bastidor** | Você contando como escreve as sagas / que é brasileiro | Autenticidade, fundador indie |
 
@@ -42,15 +53,17 @@ Ficção interativa +18 com IA, em português. Deslize o catálogo, dê match, v
 > `[NOME]` = nome real de uma personagem do catálogo. Use os prints reais do app sempre que puder.
 > Duração ideal: 12–25 s. Legenda grande no centro. Som: trend calmo/tenso ou chuva + neon.
 
-1. **"Não crie ninguém."** — Tela: formulário enorme de criar personagem (mock) → risco vermelho →
-   catálogo do ALCOVA deslizando. Texto: "Em outros apps você cria. Aqui você escolhe." CTA: "1ª grátis, link na bio."
+1. **"Aqui ela termina a frase."** — Tela: conversa tensa → aviso genérico "esta resposta foi
+   bloqueada" (mock, sem marca) → corte → mesma cena no ALCOVA, a personagem completa a fala com
+   tensão (nada explícito). Texto: "pra quem cansou de filtro de adolescente." CTA: "1ª grátis, link na bio."
 2. **POV: ela tem algo pra confessar** — Tela preta. Texto digitando: "Eu nunca contei isso pra ninguém…
    mas hoje eu precisava falar com alguém que não me conhece." Corte: logo. "O que você responderia?"
 3. **Deslizei até achar** — gravação de tela: swipe, swipe, para em `[NOME]`. Texto: "deslizei 4
    vezes e parei nela. vocês teriam parado?"
 4. **A virada** — print: usuário escreve algo inocente; `[NOME]` responde com uma revelação. Texto:
    "eu só perguntei o nome dela 😶".
-5. **Comparação de tempo** — split-screen: cronômetro "criando personagem 27:40" × "escolhendo 00:03".
+5. **"Pediram meu documento pra conversar com uma personagem"** — você reagindo, olhar de cansaço,
+   corte para o ALCOVA: "aqui adulto entra como adulto." (+18, login Google.)
 6. **"Ela lembrou"** — print de `[NOME]` citando algo dito 1 hora antes. Texto: "a IA lembrou de um
    detalhe que eu falei no começo da noite."
 7. **3 coisas que `[NOME]` nunca vai te contar** — 3 cards com mistério (sem spoiler). "A 3ª você
@@ -78,12 +91,13 @@ Ficção interativa +18 com IA, em português. Deslize o catálogo, dê match, v
 
 ## 4. Posts estáticos / carrosséis (Instagram, X, Threads)
 
-- **Carrossel "Character.AI × ALCOVA"** (6 slides): criar × escolher · chat infinito × saga com final ·
-  inglês × português · filtro geral × +18 · assinatura × por saga · CTA.
+- **Carrossel "Veio do Character.AI?"** (6 slides): filtro de adolescente × +18 · esquece × lembra de
+  você · chat infinito × saga com final · inglês × português · anúncios × zero anúncio · CTA com código VIMDOCAI.
 - **Carrossel "Como funciona"**: 1 deslize · 2 match · 3 cena · 4 final · 5 1ª grátis.
 - **Frases das personagens** (1 por semana): fundo escuro, frase em serifa, nome da personagem pequeno.
-- **Thread no X:** "Fiz um app brasileiro de ficção interativa com IA. Em vez de criar personagens
-  (como no Character.AI), você desliza um catálogo estilo Tinder. Aprendizados dos primeiros meses 🧵"
+- **Thread no X:** "O Brasil é o 2º maior país do Character.AI. Fiz um app brasileiro de ficção
+  interativa com IA para adultos, em português, com personagens que lembram de você e histórias com
+  final. Aprendizados dos primeiros meses 🧵"
   → 6–8 tuítes com números reais (instalações, % que termina a saga, aprendizados de prompt). Fundadores
   contando números reais geram muito alcance em X/LinkedIn.
 
@@ -91,10 +105,10 @@ Ficção interativa +18 com IA, em português. Deslize o catálogo, dê match, v
 
 | Dia | Vídeo (4 redes) | Extra |
 |---|---|---|
-| 1 | #1 Não crie ninguém | Bio + link em todas as redes |
+| 1 | #1 Aqui ela termina a frase | Bio + link em todas as redes |
 | 2 | #2 POV confissão | Thread do fundador no X |
-| 3 | #3 Deslizei até achar | Carrossel C.AI × ALCOVA |
-| 4 | #5 Comparação de tempo | — |
+| 3 | #3 Deslizei até achar | — |
+| 4 | #5 Pediram meu documento | Carrossel "Veio do Character.AI?" |
 | 5 | #4 A virada | Story enquete |
 | 6 | #10 Story time do fundador | Post LinkedIn (versão profissional da thread) |
 | 7 | #9 Qual porta | Enquete "quem entra no catálogo?" |

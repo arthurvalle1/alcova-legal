@@ -134,8 +134,8 @@ def article_page(p: dict, all_posts: list[dict]) -> str:
   <div class="post-meta">{fmt_date(p['date_obj'])} · {p['minutes']} min de leitura</div>
 {p['body']}
   <div class="cta-box">
-    <h3>Escolha sua personagem. A primeira confissão é por nossa conta.</h3>
-    <p>ALCOVA: ficção interativa adulta (+18) com IA, em português. Catálogo estilo app de encontros, sagas com começo, meio e fim.</p>
+    <h3>Ela lembra de você. A primeira confissão é por nossa conta.</h3>
+    <p>ALCOVA: ficção interativa adulta (+18) com IA, em português. Personagens com memória, sagas de sedução com um final que depende de você.</p>
     <a class="btn" href="{play_link(p['slug'], 'article_cta')}">▶ Baixar no Google Play</a>
   </div>
 </article>
